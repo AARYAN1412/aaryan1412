@@ -1,4 +1,4 @@
-# HI AARYAN 
+# HI i am AARYAN Sharma
 ## I am a UPES Btech Cse Student @upes aspiring to be a software developer
 
 <!--
