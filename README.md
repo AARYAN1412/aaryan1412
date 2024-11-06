@@ -1,5 +1,5 @@
 # HI
-## Hi there 👋
+## what's up
 ### buddy
 
 <!--
