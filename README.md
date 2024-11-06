@@ -1,6 +1,5 @@
-# HI
-## what's up
-### buddy
+# HI AARYAN 
+## I am a UPES Btech Cse Student @upes aspiring to be a software developer
 
 <!--
 **AARYAN1412/aaryan1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
